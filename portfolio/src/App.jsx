@@ -7,17 +7,17 @@ import Contact from "./components/Contact"
 
 export default function App() {
     return (
-        <div className={styles.App}>
+        <div className={styles.app}>
             <Header />
             
             <main>
-                <selection id='inicio' className={styles.hero}>
+                <section id='inicio' className={styles.hero}>
                     <h1>oii, eu sou o Victor Augusto</h1>
                     <p>
                         Desenvolvedor Front-end em formação, criando projetos com React,
                         JavaScript, HTML, CSS e boas práticas de desenvolvimento.
                     </p>
-                </selection>
+                </section>
 
                 <About />
                 <Projects />
