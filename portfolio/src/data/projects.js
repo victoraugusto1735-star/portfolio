@@ -6,7 +6,7 @@ export const projects = [
     technologies: ["React", "Next.js", "Tailwind", "LocalStorage"],
     image: "/cafe.png",
     github: "https://github.com/victoraugusto1735-star/coffee-talk",
-    demo: "https://coffee-talk-8hddndz31-victoraugusto1735-stars-projects.vercel.app/",
+    demo: "https://coffee-talk-mauve.vercel.app/",
   },
   {
     id: 2,
